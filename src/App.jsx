@@ -28,7 +28,7 @@ function App() {
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
-              href="/Salman_Zulkarnain_Web_Developer_CV.pdf"
+              href="./Salman_Zulkarnain_Web_Developer_CV.pdf"
               rel="noopener noreferrer"
               target="_blank"
               className="bg-yellow-500 text-zinc-800 p-4 rounded-2xl hover:bg-yellow-600"
